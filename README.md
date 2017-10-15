@@ -1,8 +1,8 @@
 ## stronger-gpw
-An "improved" version of the `gpw` that generates stronger passwords.
+An "improved" version of `gpw` that generates stronger passwords.
 
 ### The 💪 Difference
-`stronger-gpw` adds one symbol and one uppercase character to each password generated. There are no added command line options. Just run the it the same as you would run regular `gpw`.
+`stronger-gpw` adds one symbol and one uppercase character to each password generated. There are no added command line options. Just run it the same as you would run regular `gpw`.
 
 The original `gpw` source is available [here](https://drjohnstechtalk.com/blog/2013/03/generate-pronounceable-passwords/).
 
