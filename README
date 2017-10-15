@@ -1,0 +1,15 @@
+Usage: gpw n, to generate n passwords
+
+Notes for those compiling from source
+++++++++++++++++++++++++++++++++++++++++++++
+If compiling from source, you need a C++ compiler. I had to install the package
+
+gcc-c++
+
+in my case even though I already had gcc installed.
+
+Also note that a "bare word" dictionary is assumed to be at
+
+ /usr/share/dict/linux.words
+
+Update the Makefile if yours is in a different path.
